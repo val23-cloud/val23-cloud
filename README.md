@@ -21,10 +21,6 @@ Here are the core tools and frameworks I use to work with data:
 - **Data Visualization:** Power BI 📊 • Excel 📈
 - **AI & Machine Learning:** Scikit-Learn 🧠 • Pandas 🐼 • NumPy 🔢
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Vyalary's GitHub Stats" />
-</p>
 
 ## ⚡ Fun Fact
 - 🔍 I believe everything is a data problem waiting to be solved!
