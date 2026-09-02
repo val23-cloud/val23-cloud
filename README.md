@@ -17,11 +17,9 @@ I am deeply curious about uncovering insights from raw data and building intelli
 ## 🛠️ Tech Stack & Tools
 Here are the core tools and frameworks I use to work with data:
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![SQL](https://shields.io) |
-| **Data Viz** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) |
-| **AI & ML** | ![🧠 Scikit-Learn](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) |
+- **Languages:** Python 🐍 • SQL 🗄️
+- **Data Visualization:** Power BI 📊 • Excel 📈
+- **AI & Machine Learning:** Scikit-Learn 🧠 • Pandas 🐼 • NumPy 🔢
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -30,6 +28,7 @@ Here are the core tools and frameworks I use to work with data:
 
 ## ⚡ Fun Fact
 - 🔍 I believe everything is a data problem waiting to be solved!
+
 
 
 <!--
