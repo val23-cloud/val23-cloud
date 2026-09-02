@@ -1,19 +1,35 @@
-# Hi there, I'm a Data & Business Analyst! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I am deeply curious about uncovering insights from raw data and building intelligent AI-driven solutions. I am constantly learning, experimenting, and building new projects.
+# Hi there, I'm Vyalary! 👋
+### 📊 Data & Business Analyst | AI Explorer 🤖
 
-## 🤖 What I Do
-- 📊 Analyzing complex datasets to drive business decisions.
-- 📈 Designing interactive data visualizations and dashboards.
-- 🧠 Training and fine-tuning Machine Learning models.
+---
+
+```text
+💡 Always curious • Constantly learning • Driven by insights
+```
+
+</div>
+
+## 🚀 About Me
+I am deeply curious about uncovering insights from raw data and building intelligent AI-driven solutions. I love turning complex datasets into clear, actionable business strategies.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Python, SQL
-- **Data Visualization:** Power BI, Excel
-- **AI & Machine Learning:** Scikit-Learn, Pandas, NumPy
+Here are the core tools and frameworks I use to work with data:
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://shields.io) ![SQL](https://shields.io) |
+| **Data Viz** | ![Power Bi](https://shields.io) ![Excel](https://shields.io) |
+| **AI & ML** | ![🧠 Scikit-Learn](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) |
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Vyalary's GitHub Stats" />
+</p>
 
 ## ⚡ Fun Fact
-- I believe everything is a data problem waiting to be solved! 
+- 🔍 I believe everything is a data problem waiting to be solved!
 
 
 <!--
